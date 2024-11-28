@@ -80,7 +80,7 @@
                     data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent"
                     aria-expanded="false" aria-label="Toggle navigation">
                     <svg width="18" height="12" viewBox="0 0 18 12" fill="none" xmlns="http://www.w3.org/2000/svg">
-                        <path d="M0 12H18V10H0V12ZM0 7H18V5H0V7ZM0 0V2H18V0H0Z" fill="white" />
+                        <path d="M0 12H18V10H0V12ZM0 7H18V5H0V7ZM0 0V2H18V0H0Z" fill="black" />
                     </svg>
                 </button>
                 <div class="row me-0 row-cols-2 collapse navbar-collapse" id="navbarSupportedContent">
@@ -127,7 +127,7 @@
                         data-aos-delay="50">Seaton Winding Woods - Pickering</span>
                     </h1>
                     <p class=" headline-textt mt-0 pt-2 text-white px-md-0 px-3 text-center" data-aos="fade-up"
-                        data-aos-duration="2000" data-aos-delay="50">Coming Soon! <br> Starting from Low
+                        data-aos-duration="2000" data-aos-delay="50"> Starting from Low
                         $789.99k
                     </p>
 
@@ -508,7 +508,7 @@
                 <div class="col-md-5 my-3 fotwidth center-sm px-4 px-md-0">
 
                     <p class=" ">
-                        <img src="./images/mira-logo-black.png" class="navbar-brand pb-1" alt="Mira Townhomes Logo">
+                        <img src="./images/seaton2-logo.svg" class="navbar-brand pb-1" alt="Mira Townhomes Logo">
                     </p>
                     <span class="small-text justifyy">
                         Disclaimer: We do not represent the builder. The renderings, floor plans, and images used on
@@ -519,7 +519,7 @@
                     <div class="list pt-2 d-md-block d-none">
                         <p class=""> <a href="https://condomonk.ca/barrie" target="_blank"
                                 class="text-dark text-decoration-none"><strong>
-                                    Check out all Barrie pre construction homes projects on
+                                    Check out all Pickering pre construction homes projects on
                                     Condomonk.</strong></a>
                         </p>
 
@@ -530,14 +530,14 @@
                         <h5 class="text-dark fw-bold mt-4 mb-3">About</h5>
                         <div class="list d-block ">
                             <p class="mybot ">
-                                Builder : Dunsire Developments
+                                Builder : Fieldgate Homes
                             </p>
                             <p class="mybot ">
-                                Location :700 Mapleview Drive East, Barrie
+                                Location :1505 Alexander Knox Rd, Pickering, ON
                             </p>
 
                             <p class="mybot ">
-                                House Type : Townhomes
+                                House Type : Towns and Single Family
                             </p>
 
                         </div>
@@ -546,14 +546,14 @@
                 </div>
 
                 <div class="col-md-2 mt-md-5 pt-md-5 mt-sm-0 pt-4 center-sm d-flex  justify-content-center d-flex">
-                    <img src="./images/Dunsire-logo.png" class="img-fluid regoimg " alt="Dunsire Developments-logo">
+                    <img src="./images/fieldgate-logo.svg" class="img-fluid regoimg " alt="Dunsire Developments-logo">
                 </div>
             </div>
 
             <div class="list mt-5 pt-5 d-md-none d-block center-sm">
                 <p class=""> <a href="https://condomonk.ca/barrie" target="_blank"
                         class="text-dark text-decoration-none"><strong>
-                            Check out all Barrie pre construction homes projects on
+                            Check out all Pickering pre construction homes projects on
                             Condomonk.</strong></a>
                 </p>
 

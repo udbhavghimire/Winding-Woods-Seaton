@@ -26,9 +26,9 @@ function sendToFollowUpBoss($data)
             'phones' => array(
                 array('value' => $data['phone'])
             ),
-            'tags' => array('Mira Towns', 'Barrie')
+            'tags' => array('Seaton Winding Woods', 'Pickering')
         ),
-        'source' => 'miratowns.ca',
+        'source' => 'windingwoods.ca',
         'system' => 'Custom Website',
         'type' => 'Inquiry',
         'message' => $data['message']
@@ -60,19 +60,19 @@ function sendToFollowUpBoss($data)
 $mail = new PHPMailer;
 
 $mail->isSMTP();
-$mail->Host = 'mail.miratowns.ca';
+$mail->Host = 'mail.windingwoods.ca';
 $mail->SMTPAuth = true;
-$mail->Username = 'info@miratowns.ca';
-$mail->Password = 'mail@miratowns';
+$mail->Username = 'info@windingwoods.ca';
+$mail->Password = 'mail@windingwoods';
 $mail->SMTPSecure = 'tls';
 $mail->Port = 587;
 
-$mail->setFrom('info@miratowns.ca', $_POST['name']);
+$mail->setFrom('info@windingwoods.ca', $_POST['name']);
 $mail->addAddress('contact@homebaba.ca');
 $mail->addReplyTo($_POST['email']);
 $mail->isHTML(true);
 
-$mail->Subject = "Mira Towns Barrie - Landing Page Inquiry";
+$mail->Subject = "Seaton Winding Woods Pickering - Landing Page Inquiry";
 
 // Prepare email message
 $message = "
