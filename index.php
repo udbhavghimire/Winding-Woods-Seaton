@@ -436,7 +436,7 @@
                     </div> -->
                     <h6 class="text-center fs-1 fw-bold pt-3 register "> Register today</h6>
                     <div class="registertext px-4 d-flex justify-content-center align-items-center text-center mb-0">
-                        <p>Register today and get the first update on Mira Towns Barrie coming up in Barrie
+                        <p>Register today and get the first update on Seaton Winding Woods coming up in Pickering
                         </p>
                     </div>
 
@@ -481,7 +481,7 @@
                             </div>
                             <div class="row ">
                                 <p class=" text-muted sm-text text-center mt-0 ">*I consent to receive future
-                                    communications about Mira Towns Barrie. I understand I can opt out at anytime by
+                                    communications about Seaton Winding Woods. I understand I can opt out at anytime by
                                     sending
                                     an email.</p>
                             </div>

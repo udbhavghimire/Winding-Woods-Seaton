@@ -17,13 +17,14 @@
     <title>Thankyou</title>
 
     <!-- Google tag (gtag.js) -->
-    <script async src="https://www.googletagmanager.com/gtag/js?id=G-PV3TGFFYNY"></script>
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-LM34RJ719L"></script>
     <script>
         window.dataLayer = window.dataLayer || [];
         function gtag() { dataLayer.push(arguments); }
         gtag('js', new Date());
 
-        gtag('config', 'G-PV3TGFFYNY');
+        gtag('config', 'G-LM34RJ719L');
     </script>
 </head>
 
@@ -31,7 +32,7 @@
 
     <section id="thankyou">
         <div class="text-center pt-lg-5 pt-5 pt-0">
-            <img src="../images/Mira-Logo-black.png" class="thankyoulogo pb-1" alt="">
+            <img src="../images/seaton2-logo.svg" class="thankyoulogo pb-1" alt="">
             <div class="  text-center">
                 <div class="tick">
                     <img id="tick-gif" src="../images/tick.gif" alt="">
