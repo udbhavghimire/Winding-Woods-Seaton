@@ -130,7 +130,7 @@
 }
 
 .imghei {
-    height: 320px !important;
+    height: 360px !important;
     object-fit: cover;
     width: 100% !important;
     border-radius: 15px;
@@ -258,7 +258,7 @@
 }
 
 .mybot {
-    margin-bottom: 3px !important;
+    margin-bottom: 2px !important;
 }
 
 .thankyou {
@@ -301,7 +301,7 @@
         max-width: 800px;
         margin-left: auto;
         margin-right: auto;
-        text-align: center;
+        text-align: left;
 
     }
 
@@ -342,7 +342,7 @@
     }
 
     .bgggggggg {
-        background-color: #004C3D !important;
+        background-color: #212e61 !important;
         color: #fff !important;
     }
 
@@ -380,7 +380,7 @@
 .video-container {
     position: relative;
     width: 100%;
-    padding-bottom: 177.78%;
+    padding-bottom: 56.25%;
     /* 9x16 ratio */
     height: 0;
 }
