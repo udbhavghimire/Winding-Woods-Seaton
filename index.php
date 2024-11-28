@@ -144,14 +144,14 @@
             <h2
                 class="fs-1 brand-color px-3 pt-md-5 pb-3  fw-bold ps-3 ps-md-0 d-flex justify-content-center  align-items-center text-center">
                 About Seaton Winding Woods in Pickering</h2>
-            <p class=" px-3 textt ">
+            <p class=" px-2 textt center-sm">
                 <span> <a href="https://condomonk.ca/pickering/seaton-winding-woods" target="_blank"
                         class="fw-bold text-decoration-none text-dark">Seaton Winding Woods by Fieldgate Homes
                     </a></span>
                 is a new pre-construction development in North Pickering, ON. Offering townhomes, semis, and 30′ & 36′
                 single-detached homes, this serene community blends nature with urban convenience, ideal for families
                 and professionals.
-            <div class="list  textt  px-3">
+            <div class="list  textt  px-2 center-sm">
                 <p class="mybot pb-md-0 pb-0 ">
                     Builder: Fieldgate Homes
                 </p>
@@ -293,8 +293,8 @@
             <div class="accordion accordion-flush pt-4 " id="accordionFlushExample">
                 <div class="accordion-item">
                     <h3 class="accordion-header" id="flush-headingFour">
-                        <button class="accordion-button collapsed " type="button" data-bs-toggle="collapse"
-                            data-bs-target="#flush-collapseFour" aria-expanded="false"
+                        <button class="accordion-button collapsed fs-5 mob-sm-text" type="button"
+                            data-bs-toggle="collapse" data-bs-target="#flush-collapseFour" aria-expanded="false"
                             aria-controls="flush-collapseFour">
                             When is the completion of the Seaton Winding Woods?
                         </button>
@@ -309,8 +309,9 @@
 
                 <div class="accordion-item">
                     <h3 class="accordion-header " id="flush-headingOne">
-                        <button class="accordion-button collapsed " type="button" data-bs-toggle="collapse"
-                            data-bs-target="#flush-collapseOne" aria-expanded="false" aria-controls="flush-collapseOne">
+                        <button class="accordion-button collapsed fs-5 mob-sm-text" type="button"
+                            data-bs-toggle="collapse" data-bs-target="#flush-collapseOne" aria-expanded="false"
+                            aria-controls="flush-collapseOne">
                             Who is the builder of Seaton Winding Woods?
                         </button>
                     </h3>
@@ -323,8 +324,8 @@
 
                 <div class="accordion-item">
                     <h3 class="accordion-header " id="flush-headingFive">
-                        <button class="accordion-button collapsed " type="button" data-bs-toggle="collapse"
-                            data-bs-target="#flush-collapseFive" aria-expanded="false"
+                        <button class="accordion-button collapsed fs-5 mob-sm-text " type="button"
+                            data-bs-toggle="collapse" data-bs-target="#flush-collapseFive" aria-expanded="false"
                             aria-controls="flush-collapseFive">
                             What is the starting price for Seaton Winding Woods?
                         </button>
@@ -337,8 +338,8 @@
                 </div>
                 <div class="accordion-item">
                     <h3 class="accordion-header" id="flush-headingThree">
-                        <button class="accordion-button collapsed " type="button" data-bs-toggle="collapse"
-                            data-bs-target="#flush-collapseThree" aria-expanded="false"
+                        <button class="accordion-button collapsed fs-5 mob-sm-text" type="button"
+                            data-bs-toggle="collapse" data-bs-target="#flush-collapseThree" aria-expanded="false"
                             aria-controls="flush-collapseThree">
                             What makes Pickering a great place to live?
                         </button>
@@ -376,7 +377,7 @@
             </h2>
 
             <span
-                class=" pt-3 small-text text-center d-flex justify-content-center align-items-center custom-underline pb-3 textt fs-4 px-4 ">
+                class=" pt-3 small-text text-center d-flex justify-content-center align-items-center custom-underline pb-3 textt px-4 ">
                 The Fieldgate name has become synonymous with excellence as we create heirloom communities and
                 residences that continue to appreciate in value over time. We strive to maintain a keen focus on the
                 contemporary needs and wants of homebuyers through consistent community engagement, influencing the
