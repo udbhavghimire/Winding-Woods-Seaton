@@ -63,7 +63,7 @@ $mail->isSMTP();
 $mail->Host = 'mail.windingwoods.ca';
 $mail->SMTPAuth = true;
 $mail->Username = 'info@windingwoods.ca';
-$mail->Password = 'mail@windingwoods';
+$mail->Password = 'goto@windingwoods';
 $mail->SMTPSecure = 'tls';
 $mail->Port = 587;
 
