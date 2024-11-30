@@ -32,7 +32,7 @@
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
     <meta name="language" content="English">
     <meta name="revisit-after" content="1 days">
-    <meta property="og:image" content="https://miratowns.ca/images/img1.jpg">
+    <meta property="og:image" content="https://windingwoods.ca/images/img1.jpg">
 
 
     <meta property="og:site_name" content="Seaton Winding Woods" />
@@ -123,7 +123,7 @@
                     <h1 class="main-titlee pb-0  mb-0 mt-2 mt-md-0" data-aos="fade-up" data-aos-duration="2000"
                         data-aos-delay="50">Seaton Winding Woods - Pickering</span>
                     </h1>
-                    <p class=" headline-textt mt-0 pt-2 text-white px-md-0 px-3 text-center" data-aos="fade-up"
+                    <p class=" headline-textt mt-0 pt-2 text-white px-md-0 px-3 text-center fw-bold" data-aos="fade-up"
                         data-aos-duration="2000" data-aos-delay="50"> Starting from Low
                         $789.99k
                     </p>
@@ -257,11 +257,11 @@
                     <div class="bg-white p-1  rounded-mine d-flex justify-content-center col">
                         <img src="./images/siteplan.jpg" class="img-fluid" alt="Seaton Winding Woods Sitemap">
                     </div>
-                    <div class="bg-white p-1   rounded-mine d-flex justify-content-center align-items-center col">
+                    <div class="bg-white p-1 rounded-mine d-flex justify-content-center align-items-center col">
 
                         <iframe
                             src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2874.9040757312146!2d-79.1080872!3d43.8992534!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89d520cae8fe47c9%3A0x3a1dfb9dd3304265!2s1505%20Alexander%20Knox%20Rd%2C%20Pickering%2C%20ON%20L1X%200J9%2C%20Canada!5e0!3m2!1sen!2snp!4v1732768808106!5m2!1sen!2snp"
-                            width="600" height="650" style="border:0;" allowfullscreen="" loading="lazy"
+                            class="map-container" style="border:0;" allowfullscreen="" loading="lazy"
                             referrerpolicy="no-referrer-when-downgrade"></iframe>
 
                     </div>
@@ -281,13 +281,13 @@
 
     </section>
 
-    <section class="mt-md-5 py-md-5" id="faq">
+    <section class="mt-md-5 py-md-5 faq-width" id="faq">
         <div class="container mt-5" data-aos="fade-up" data-aos-duration="2000" data-aos-delay="50">
             <h2 class="fw-bold fs-1 mb-0 text-center justify-content-center brand-color" data-aos="fade-up">
                 <a href="https://homebaba.ca/pickering/seaton-winding-woods" target="_blank"
                     class="fw-bold text-decoration-none brand-color"> Seaton Winding Woods</a> FAQ
             </h2>
-            <div class="accordion accordion-flush pt-4 " id="accordionFlushExample">
+            <div class="accordion accordion-flush pt-4" id="accordionFlushExample">
                 <div class="accordion-item">
                     <h3 class="accordion-header" id="flush-headingFour">
                         <button class="accordion-button collapsed fs-5 mob-sm-text" type="button"
@@ -406,8 +406,9 @@
                         <img src="images/empire-logo.png " class="img-fluid regoimg " alt="Empire Communities Logo ">
                     </div> -->
                     <h6 class="text-center fs-1 fw-bold pt-3 register "> Register today</h6>
-                    <div class="registertext px-4 d-flex justify-content-center align-items-center text-center mb-0">
-                        <p>Register today and get the first update on Seaton Winding Woods coming up in Pickering
+                    <div class="registertext px-4   d-flex justify-content-center align-items-center text-center mb-0">
+                        <p class="">Register today and get the first update on Seaton Winding Woods coming up in
+                            Pickering
                         </p>
                     </div>
 
