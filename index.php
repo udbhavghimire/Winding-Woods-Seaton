@@ -222,7 +222,7 @@
             <div class="my-md-5 my-sm-4"></div>
             <h2
                 class="fw-bold fs-1 pb-3 text-center justify-content-center py-md-2 py-5 mt-2 mt-md-0 custom-underline brand-color">
-                Floor Plans and Prices
+                Floor Plans and Pricing
             </h2>
             <div>
                 <div class="row row-cols-2 row-cols-md-3 justify-content-center gy-md-4 gy-4 gx-3 pt-md-2 pt-0">
