@@ -170,6 +170,8 @@
     </section>
 
 
+
+
     <section class="pt-md-5 pt-2" id="features">
         <div class="container pt-md-2">
             <div class="my-md-5 my-sm-4"></div>
@@ -215,9 +217,50 @@
         </div>
     </section>
 
+    <section class="pt-md-5 pt-2" id="plans">
+        <div class="container pt-5">
+            <div class="my-md-5 my-sm-4"></div>
+            <h2
+                class="fw-bold fs-1 pb-3 text-center justify-content-center py-md-2 py-5 mt-2 mt-md-0 custom-underline brand-color">
+                Floor Plans and Prices
+            </h2>
+            <div>
+                <div class="row row-cols-2 row-cols-md-3 justify-content-center gy-md-4 gy-4 gx-3 pt-md-2 pt-0">
+                    <div class="col">
+                        <div class="afte">
+                            <img src="./images/blur-floorplan2.jpg" alt="Seaton Winding Woods Floor Plan"
+                                class="img-fluid rounded-mine " />
+                        </div>
+                    </div>
+                    <div class="col">
+                        <div class="afte">
+                            <img src="./images/blur-floorplan2.jpg" alt="Seaton Winding Woods Floor Plan"
+                                class="img-fluid rounded-mine " />
+                        </div>
+                    </div>
+                    <div class="col">
+                        <div class="afte">
+                            <img src="./images/blur-floorplan2.jpg" alt="Seaton Winding Woods Floor Plan"
+                                class="img-fluid rounded-mine " />
+                        </div>
+                    </div>
+                    <div class="col d-block d-md-none">
+                        <div class="afte">
+                            <img src="./images/blur-floorplan2.jpg" alt="Seaton Winding Woods Floor Plan"
+                                class="img-fluid rounded-mine " />
+                        </div>
+                    </div>
+                </div>
+                <div class="text-center mt-4">
+                    <a href="#Contact" class="btn call-btn px-4 py-2">Get Floor Plan Details</a>
+                </div>
+            </div>
+        </div>
+    </section>
+
     <div class="pt-5"></div>
     <section class="py-md-5 py-4">
-        <div class="container pt-md-5 pt-4">
+        <div class="container pt-md-5 pt-5">
             <h2 class="fw-bold fs-1 mb-4 text-center justify-content-center brand-color">
                 Checkout Videos What People Say About Pickering
             </h2>
@@ -279,7 +322,6 @@
 
 
 
-    </section>
 
     <section class="mt-md-5 py-md-5 faq-width" id="faq">
         <div class="container mt-5" data-aos="fade-up" data-aos-duration="2000" data-aos-delay="50">
