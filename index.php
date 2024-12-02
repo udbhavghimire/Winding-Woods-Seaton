@@ -228,26 +228,26 @@
                 <div class="row row-cols-2 row-cols-md-3 justify-content-center gy-md-4 gy-4 gx-3 pt-md-2 pt-0">
                     <div class="col">
                         <div class="afte">
-                            <img src="./images/blur-floorplan2.jpg" alt="Seaton Winding Woods Floor Plan"
-                                class="img-fluid rounded-mine " />
+                            <img src="./images/blur-floorplan2.png" alt="Seaton Winding Woods Floor Plan"
+                                class="img-fluid rounded-mine imgplans" />
                         </div>
                     </div>
                     <div class="col">
                         <div class="afte">
-                            <img src="./images/blur-floorplan2.jpg" alt="Seaton Winding Woods Floor Plan"
-                                class="img-fluid rounded-mine " />
+                            <img src="./images/blur-floorplan2.png" alt="Seaton Winding Woods Floor Plan"
+                                class="img-fluid rounded-mine imgplans" />
                         </div>
                     </div>
                     <div class="col">
                         <div class="afte">
-                            <img src="./images/blur-floorplan2.jpg" alt="Seaton Winding Woods Floor Plan"
-                                class="img-fluid rounded-mine " />
+                            <img src="./images/blur-floorplan2.png" alt="Seaton Winding Woods Floor Plan"
+                                class="img-fluid rounded-mine imgplans" />
                         </div>
                     </div>
                     <div class="col d-block d-md-none">
                         <div class="afte">
-                            <img src="./images/blur-floorplan2.jpg" alt="Seaton Winding Woods Floor Plan"
-                                class="img-fluid rounded-mine " />
+                            <img src="./images/blur-floorplan2.png" alt="Seaton Winding Woods Floor Plan"
+                                class="img-fluid rounded-mine imgplans" />
                         </div>
                     </div>
                 </div>
@@ -449,7 +449,8 @@
                     </div> -->
                     <h6 class="text-center fs-1 fw-bold pt-3 register "> Register today</h6>
                     <div class="registertext px-4   d-flex justify-content-center align-items-center text-center mb-0">
-                        <p class="">Register today and get the first update on Seaton Winding Woods coming up in
+                        <p class="sm-text mx-3">Register today and get the first update on Seaton Winding Woods coming
+                            up in
                             Pickering
                         </p>
                     </div>
