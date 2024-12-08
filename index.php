@@ -125,7 +125,7 @@
                     </h1>
                     <p class=" headline-textt mt-0 pt-2 text-white px-md-0 px-3 text-center fw-bold" data-aos="fade-up"
                         data-aos-duration="2000" data-aos-delay="50"> Starting from Low
-                        $789.99k
+                        $816K
                     </p>
 
                     <a href="#Contact"
@@ -157,7 +157,7 @@
                     Address: 1505 Alexander Knox Rd, Pickering
                 </p>
                 <p class="mybot pb-md-0 pb-0 ">
-                    Pricing: Starting from Low $789.99k
+                    Pricing: Starting from Low $816K
                 </p>
                 <p class="mybot pb-md-0 pb-0 ">
                     Occupancy: Estimated 2025
@@ -371,7 +371,7 @@
                     </h3>
                     <div id="flush-collapseFive" class="accordion-collapse collapse" aria-labelledby="flush-headingOne"
                         data-bs-parent="#accordionFlushExample">
-                        <div class="accordion-body">Seaton Winding Woods starting from Low $789.99k.
+                        <div class="accordion-body">Seaton Winding Woods starting from Low $816K.
                         </div>
                     </div>
                 </div>

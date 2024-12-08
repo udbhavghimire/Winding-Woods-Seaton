@@ -81,7 +81,7 @@ $message = "
     Email: " . strip_tags($_POST['email']) . "<br/>
     Realtor or working with one?: " . strip_tags($_POST['realtor']) . "<br/>
     Message: " . strip_tags($_POST['message']) . "<br/>
-    Source: miratowns.ca
+    Source: windingwoods.ca
 ";
 
 $mail->Body = $message;
