@@ -52,13 +52,13 @@
         }
     </script>
     <!-- Google tag (gtag.js) -->
-    <script async src="https://www.googletagmanager.com/gtag/js?id=G-LM34RJ719L"></script>
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-YQS5N2JGZR"></script>
     <script>
         window.dataLayer = window.dataLayer || [];
         function gtag() { dataLayer.push(arguments); }
         gtag('js', new Date());
 
-        gtag('config', 'G-LM34RJ719L');
+        gtag('config', 'G-YQS5N2JGZR');
     </script>
 </head>
 
