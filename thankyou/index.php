@@ -26,6 +26,10 @@
 
         gtag('config', 'G-YQS5N2JGZR');
     </script>
+
+    <script>
+        gtag('event', 'conversion', { 'send_to': 'AW-451416794/1EODCISPxu8BENqloNcB' });
+    </script>
 </head>
 
 <body class="bg-light">
